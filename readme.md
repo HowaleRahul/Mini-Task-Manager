@@ -46,7 +46,7 @@ Mini-Task-Manager/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Mini-Task-Manager.git
+   git clone https://github.com/HowaleRahul/Mini-Task-Manager.git
    cd Mini-Task-Manager
    ```
 
